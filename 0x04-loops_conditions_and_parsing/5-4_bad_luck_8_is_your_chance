@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Prints "Best School" for ten times.In yne 4th iteration print "Bad luck", "Good luck" in the 8th.
+# Prints "Best School" for ten times.In yne 4th iteration print "Bad luck", "Good luck" in the 8th.
 
 i=1
 
